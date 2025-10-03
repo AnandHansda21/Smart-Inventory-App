@@ -1,4 +1,4 @@
-import { Edit3, Trash2, Check, X } from 'lucide-react';
+import { CreditCard as Edit3, Trash2, Check, X } from 'lucide-react';
 import { Button } from '../ui/button';
 import { InventoryItem, useApp } from '../context/AppContext';
 import { formatPrice } from '../data/currency';

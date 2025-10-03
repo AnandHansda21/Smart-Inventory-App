@@ -1,7 +1,5 @@
 import { useState } from 'react';
-import { 
-  AlertTriangle
-} from 'lucide-react';
+import { TriangleAlert as AlertTriangle } from 'lucide-react';
 import { AdMobBanner } from './AdMobBanner';
 import { AdMobNative } from './AdMobNative';
 import { Button } from '../ui/button';

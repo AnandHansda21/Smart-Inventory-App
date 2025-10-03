@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { CheckCircle, Clock, Trash2 } from 'lucide-react';
+import { CircleCheck as CheckCircle, Clock, Trash2 } from 'lucide-react';
 import { Button } from '../ui/button';
 import { Tabs, TabsContent, TabsList, TabsTrigger } from '../ui/tabs';
 import { ItemCard } from './ItemCard';
